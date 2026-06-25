@@ -9,8 +9,8 @@ Predicting median house values using 1990 California census data.
 ## Results
 | Model | R² | MAE | RMSE |
 |---|---|---|---|
-| Linear Regression | paste your number | paste your number | paste your number |
-| Random Forest | paste your number | paste your number | paste your number |
+| Linear Regression | 0.6636 | 49,983.47 | 68,078.033 |
+| Random Forest |  | paste your number | paste your number |
 
 ## Libraries
 - pandas
